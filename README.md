@@ -18,6 +18,9 @@
     <img align="center" alt="" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div><br/>
 
+<p style = "font-family:courier,arial,helvetica;">
 Profissional apaixonado por tecnologia e desenvolvimento, sempre em busca de conhecimento
 e desafios visando sempre ser melhor do que ontem. Atualmente busco me especializar e desenvolver
 com o foco no back-end.
+</p>
+
