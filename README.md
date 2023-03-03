@@ -1,5 +1,7 @@
 ### Olá! Seja bem vindo! Eu sou o Luan 😊
 
+#### Profissional apaixonado por tecnologia e desenvolvimento, sempre em busca de conhecimento e desafios, visando ser sempre melhor do que ontem. Atualmente, busco me especializar e desenvolver com foco no back-end.
+
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanfmendes/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luanfmendes&theme=dracula&show_icons=true)
@@ -18,7 +20,6 @@
     <img align="center" alt="" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div><br/>
 
-<p style = "font-family:courier,arial,helvetica;">
-Profissional apaixonado por tecnologia e desenvolvimento, sempre em busca de conhecimento e desafios, visando ser sempre melhor do que ontem. Atualmente, busco me especializar e desenvolver com foco no back-end.
-</p>
+
+
 
