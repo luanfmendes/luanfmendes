@@ -19,7 +19,7 @@
 </div><br/>
 
 <p style = "font-family:courier,arial,helvetica;">
-Profissional apaixonado por tecnologia e desenvolvimento, sempre em busca de conhecimento
+Apaixonado por tecnologia e desenvolvimento, sempre em busca de conhecimento
 e desafios visando sempre ser melhor do que ontem. Atualmente busco me especializar e desenvolver
 com o foco no back-end.
 </p>
