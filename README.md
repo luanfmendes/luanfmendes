@@ -6,7 +6,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luanfmendes&theme=dracula&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanfmendes)](https://github.com/luanfmendes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanfmendes&hide_progress=true)](https://github.com/luanfmendes/github-readme-stats)
 
 ## Tecnologias que uso:
 
