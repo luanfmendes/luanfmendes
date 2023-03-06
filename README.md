@@ -1,6 +1,4 @@
-### Olá! Seja bem vindo! Eu sou o Luan 😊
-
-#### Profissional apaixonado por tecnologia e desenvolvimento, sempre em busca de conhecimento e desafios, visando ser sempre melhor do que ontem. Atualmente, busco me especializar e desenvolver com foco no back-end.
+### Olá! Seja bem vindo! 😊
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanfmendes/)
 
