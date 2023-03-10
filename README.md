@@ -2,9 +2,9 @@
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanfmendes/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=luanfmendes&theme=dracula&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luanfmendes&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanfmendes&langs_count=8)](https://github.com/luanfmendes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanfmendes)](https://github.com/luanfmendes/github-readme-stats)
 
 ## Tecnologias que uso:
 
