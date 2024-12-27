@@ -2,7 +2,7 @@
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanfmendes/)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=luanfmendes)](https://github.com/luanfmendes/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luanfmendes&show_icons=true&theme=transparent)
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
